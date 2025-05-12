@@ -19,6 +19,15 @@ This isn't just a game—it's a statement.
 
 Join us. Build with us. Shape the world.
 
+## License
+### Game
+The code for the game is released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
+### Assets
+Assets, worldbuilding documents, and concept art are released under the [Creative Commons Attribution ShareAlike 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
+### Website
+The code for the project's website is released under the [MIT License](https://opensource.org/license/mit)
+
+Please adhere to the license of any part as you modify or redistribute it.
 
 ## How you can help
 
