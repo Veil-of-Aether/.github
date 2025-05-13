@@ -3,6 +3,8 @@
 ## About
 *The Veil of Aether* is a free and open-source (FOSS) action-adventure RPG. It is based in the fictional land of Neyvara, a world focused on the four elements of Earth, Fire, Wind, and Water. The protagonist of the game is Darian (the player), a young adult who sets out on an epic adventure to save the world from an evil sorcerer. He must fight through trials and dungeons to reach the final climactic battle.
 
+The game is currently still in very early development, and a playable version likely won't be released for a while. Please be patient with us.
+
 ## Our mission statement
 
 A free and open-source RPG, powered by passion—not profit.
