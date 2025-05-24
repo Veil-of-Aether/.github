@@ -67,7 +67,9 @@ There are lots of ways to contribute:
 - Spread the word: Share the project, join our Revolt server, or post about it in the Fediverse!
 
 ### How to Contribute
-Please see each repository's individual CONTRIBUTING.md for contribution instructions
+Because of the nature of this project, contrubtions must be more restricted then most. Please join our Revolt server or contact one of the maintainers if you're interested in contributing anything more than a simple bugfix or optimization.
+
+Please see each repository's individual CONTRIBUTING.md for more detailed contribution instructions.
 
 ### Community & Support
 Need help? Got a cool idea? Join the community:
