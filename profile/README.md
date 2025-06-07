@@ -76,6 +76,8 @@ Need help? Got a cool idea? Join the community:
 
 - Revolt Server: https://rvlt.gg/xa5z1G8d
 
-- Fediverse: https://mastodon.social/@veilofaether
+- Mastodon: https://mastodon.social/@veilofaether
+
+- Bluesky: https://bsky.app/profile/veilofaether.bsky.social
 
 - Issue Tracker: https://github.com/Veil-of-Aether/game-core/issues
