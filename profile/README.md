@@ -7,19 +7,12 @@ The game is currently still in very early development, and a playable version li
 
 ## Our mission statement
 
-A free and open-source RPG, powered by passion—not profit.
+A free and open-source RPG, powered by passion rather than profit
 
-We're building a community-driven adventure inspired by classics like The Legend of Zelda, but without the corporate strings. No ads, no shady data collection, no paywalls. Just creativity, collaboration, and code.
-
-### What makes us different?
-- 100% Free/Libre and Open Source (GPL code, CC-BY-SA assets)
-- Zero reliance on corporate tools outside of required platform distribution
-- Active community engagement—from quests to code to music
-- OSS tools we use get credit and donations where possible
-
-This isn't just a game—it's a statement.
-
-Join us. Build with us. Shape the world.
+We strive to be different than corporate games, and here's how:
+- 100% free/libre and open source code and assets
+- Zero dependence on corporate tools or programs
+- Built and maintained by the community
 
 ## License
 ### Game
