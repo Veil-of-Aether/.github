@@ -26,51 +26,34 @@ Please adhere to the license of any part as you modify or redistribute it.
 
 ## How you can help
 
-This project is powered by passion, free software, and community contributions — and there are many ways *you* can be part of it:
+This project is powered by the community and motivated by passion. Here are some ways that you can be a part of it:
 
-- 📝 Give Feedback  
-Got an idea to improve the game? Found a bug? Head over to our Git repo's [issues page](https://github.com/Veil-of-Aether/game-core/issues) to file it. We monitor it regularly and appreciate all input!
+- Give Feedback  
+If you find a bug or inconsistency, or simply have a suggestion for a feature, please visit the issues page for the corresponding repository:
+  - [Game core](https://github.com/Veil-of-Aether/game-core/issues)
+    Anything involving game mechanics
+  - [Worldbuilding](https://github.com/Veil-of-Aether/worldbuilding/issues)
+    Lore, characters, areas, etc.
+  - [Concept Art](https://github.com/Veil-of-Aether/concept-art/issues
+    Game art
+  - [Website](https://github.com/Veil-of-Aether/veil-of-aether.github.io/issues
+    Things involving the Veil of Aether's website
 
-- 🛠️ Contribute Code or Assets  
-Developers, artists, and audio wizards — your skills are welcome! Fork the repo, make your improvements, and send a pull request. We'll review and credit all contributors properly.
+Do a search and see if anyone else has opened a similar issue. If not, feel free to open your own.
 
-- 💸 Support Development  
-If you believe in what we're building, you can help cover server costs and support the tools we rely on through donations. A portion goes to upstream projects like Godot, Disroot, and Revolt.
+- Contribute Code or Assets  
+If you can create code, music, art, or models, you can help! We greatly appreciate any contributions you can make. For more information on this, please join our [Revolt server](https://rvlt.gg/xa5z1G8d) or contact a maintainer.
 
-- 📣 Spread the Word  
-Tell your friends, boost us on the Fediverse, share the repo — anything helps! The more people we reach, the more awesome contributors and players we'll find.
+- Support Development  
+If this project stands out to you but you don't know how else to help, you can always support us monetarily. We greatly appreciate donations to help cover our costs. Please contact a maintainer for more details. We plan to have an Open Collective page soon, but that is still being worked on.
 
-Please see [Contributuing](#contributing) for more information.
+- Spread the Word  
+Even if you can't help in any of the above ways, one of the best ways to contribute is to simply spread the word. Make a post on the FediVerse or just tell your friends about the game. This is a great way to bring in more (eventual) players and contributors.
 
-Together, we can show that great games don't need ads, tracking, DRM, or a corporate logo.
+## Community
 
-## Contributing
+- Join our Revolt Server: https://rvlt.gg/xa5z1G8d
 
-First off, thanks for your interest in The Veil of Aether! Whether you're here to squash bugs, write dialogue, suggest features, or just share wild theories—we appreciate you.
+- Follow us on Mastodon: https://mastodon.social/@veilofaether
 
-### Ways You Can Help
-There are lots of ways to contribute:
-
-- Report bugs: Found a glitch in the matrix (or the Wind Temple)? Open an issue.
-- Suggest features: Got an idea for a sidequest, spell, or secret area? Drop it in the Discussions or open a proposal.
-- Submit code in [game-core](https://github.com/Veil-of-Aether/game-core)
-- Playtest and give feedback: Your gameplay notes help us balance, polish, and improve.
-- Submit art in [concept-art](https://github.com/Veil-of-Aether/concept-art)
-- Help with writing in [worldbuilding](https://github.com/Veil-of-Aether/worldbuilding)
-- Spread the word: Share the project, join our Revolt server, or post about it in the Fediverse!
-
-### How to Contribute
-Because of the nature of this project, contrubtions must be more restricted then most. Please join our [Revolt server](https://rvlt.gg/xa5z1G8d) or contact one of the maintainers if you're interested in contributing anything more than a simple bugfix or optimization.
-
-Please see each repository's individual CONTRIBUTING.md for more detailed contribution instructions.
-
-### Community & Support
-Need help? Got a cool idea? Join the community:
-
-- Revolt Server: https://rvlt.gg/xa5z1G8d
-
-- Mastodon: https://mastodon.social/@veilofaether
-
-- Bluesky: https://bsky.app/profile/veilofaether.bsky.social
-
-- Issue Tracker: https://github.com/Veil-of-Aether/game-core/issues
+- Give us a like on Bluesky: https://bsky.app/profile/veilofaether.bsky.social
