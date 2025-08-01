@@ -54,7 +54,7 @@ Even if you can't help in any of the above ways, one of the best ways to contrib
 
 - Join our Revolt Server: https://rvlt.gg/xa5z1G8d
 
-- Say hi to us on the Matrix: https://matrix.to/#/%23veil-of-aether:matrix.org
+- Say hi to us on the Matrix: https://matrix.to/#/#veil-of-aether:matrix.org
 
 - Follow us on Mastodon: https://mastodon.social/@veilofaether
 
